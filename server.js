@@ -1,4 +1,23 @@
-const { error } = require('console');
+console.log('Testing!')
+console.log('yes')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* const { error } = require('console');
 const fsPromises = require('fs').promises;
 const path = require('path')
 
@@ -44,6 +63,6 @@ fs.writeFile(path.join(__dirname, 'files', 'reply.txt'), 'Nice to Meet You', (er
 process.on('uncaughtException' , err => {
     console.error(` ${err}`);
     process.exit(1)
-})*/
+})
 
-fileOps()
+fileOps() */
