@@ -61,3 +61,4 @@ if(!extension && req.url.slice(-1) !== '/') filePath += '.html';
 })
 
 server.listen(PORT, () => console.log(`Server Runing on PORT ${PORT}`))
+// this line has been added on 12 10
